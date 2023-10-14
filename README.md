@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LArtyshoow
+- 👀 I’m interested in cybersecurity and penetration
+- 🌱 I’m currently learning swift
+- 💞️ I’m looking to collaborate on nothing for now
+- 📫 How to reach me, I'l reach you first
